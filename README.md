@@ -1,4 +1,4 @@
-# BEM VINDO AO MEU MUNDO DA PROGRAMAÇÃO! 😄
+# BEM VINDOS AO MEU MUNDO DA PROGRAMAÇÃO! 😄
 - Meu nome é Melissa Cardoso.
 - Utilizo a plataforma [alura](https://www.alura.com.br/) para estudar programação.
 - Jogo na base da [Blankal](https://www.instagram.com/pguafutsalfeminino/)
