@@ -9,4 +9,4 @@
 
 melissa.afonso@escola.pr.gov.br
 
-![]
+![https://media.tenor.com/Pao5mBkmLroAAAAm/pengu-pudgy.webp]
